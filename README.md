@@ -9,4 +9,4 @@ In order for this to work, your browscap configuration setting in php.ini must p
 Browscap.ini is not bundled with PHP, but you may find an up-to-date file on http://browscap.org/. (Choose the php_browscap.ini file: this is a special version of browscap.ini for PHP users only!)
 
 # Demo
-https://www.szerver.hu/bongeszo-adatok
+<a href="https://www.szerver.hu/bongeszo-adatok">https://www.szerver.hu/bongeszo-adatok</a>
